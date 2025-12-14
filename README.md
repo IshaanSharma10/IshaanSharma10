@@ -61,11 +61,11 @@ AI-based platform that analyzes resumes for ATS optimization, providing real-tim
 
 <div align="center">
   
-  ![Ishaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+  ![Ishaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=IshaanSharma10&show_icons=true&theme=radical)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshaanSharma10&layout=compact&theme=radical)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IshaanSharma10&theme=radical)
   
 </div>
 
@@ -89,7 +89,7 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge)
+  ![Profile Views](https://komarev.com/ghpvc/?username=IshaanSharma10&color=blueviolet&style=for-the-badge)
   
   **Thanks for visiting! Have a great day! 😊**
   
