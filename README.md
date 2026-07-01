@@ -32,7 +32,7 @@ gpa:         9.00 / 10.00
 currently:   SDE Intern @ GetHelpdesk.ai — shipping Traynar (web + mobile)
 researching: Constrained RL + CPG frameworks for legged robot locomotion
 leading:     ISTE Thapar Chapter (Convener)
-past:        ISRO AzaadiSAT payload (SSLV-D1) · Smart India Hackathon 2025 Winner
+past:        Smart India Hackathon 2025 Winner
 ```
 
 <br>
