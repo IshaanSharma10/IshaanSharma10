@@ -1,114 +1,145 @@
 <div align="center">
 
-# Ishaan Sharma
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ishaan+Sharma;Computer+Engineering+%40+Thapar;SDE+Intern+%40+GetHelpdesk.ai;Building+AI-Powered+Products" alt="Typing SVG" />
 
-**CS Undergrad @ Thapar Institute · SDE Intern @ GetHelpdesk.ai · ISTE Thapar Convener**
+<br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://isportfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishaan-sharma-6062bb291)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Ishaan_Sharma10)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isharma1be23@thapar.edu)
+**Computer Engineering Undergrad · SDE Intern @ GetHelpdesk.ai · Convener, ISTE Thapar Chapter**
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://isportfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishaan-sharma-6062bb291)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Ishaan_Sharma10)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isharma1be23@thapar.edu)
+
+<img src="https://komarev.com/ghpvc/?username=IshaanSharma10&color=6366f1&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 
 </div>
 
----
+<br>
 
-### About
+## About Me
 
-I build AI-powered web applications and enjoy turning messy real-world problems into clean, scalable software. Currently interning at **GetHelpdesk.ai**, where I've automated workflows that cut operational costs by **80%**. Outside of work, I lead the **ISTE Thapar Chapter** as Convener and tinker with reinforcement learning for quadruped locomotion as part of my capstone research.
+I build AI-powered products and enjoy turning ambiguous, real-world problems into clean, scalable software. Currently interning at **GetHelpdesk.ai**, where I designed the end-to-end UI for **Traynar** — a coaching platform live in the US market, used daily by real dental practices — and built an AWS Cognito–backed approval system that cut onboarding time by 65%.
 
-A few things that keep me busy:
+Outside of work, I lead the **ISTE Thapar Chapter** as Convener and research hybrid RL + CPG control architectures for quadruped locomotion as part of my capstone.
 
-- 🔭 &nbsp;Shipping AI-driven features at GetHelpdesk.ai
-- 🤖 &nbsp;Researching hybrid RL + CPG architectures for legged robots
-- 🧠 &nbsp;Grinding DSA, system design & LLD for upcoming placements
-- 🛰️ &nbsp;Past: contributed to ISRO's AzaadiSAT payload (SSLV-D1) · won Smart India Hackathon (Hardware)
+```yaml
+role:        Computer Engineering Undergrad, Thapar Institute of Engineering and Technology
+graduating:  May 2027
+gpa:         9.00 / 10.00
+currently:   SDE Intern @ GetHelpdesk.ai — shipping Traynar (web + mobile)
+researching: Constrained RL + CPG frameworks for legged robot locomotion
+leading:     ISTE Thapar Chapter (Convener)
+past:        ISRO AzaadiSAT payload (SSLV-D1) · Smart India Hackathon 2025 Winner
+```
 
----
+<br>
 
-### Tech Stack
+## Tech Stack
 
 <table>
 <tr>
-<td><b>Languages</b></td>
-<td>
+<td valign="top" width="50%">
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+**Languages**
 
-</td>
-</tr>
-<tr>
-<td><b>Frontend</b></td>
-<td>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts&theme=dark" />
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=three.js&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,threejs&theme=dark" />
 
 </td>
-</tr>
-<tr>
-<td><b>Backend & DB</b></td>
-<td>
+<td valign="top" width="50%">
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+**Backend & Data**
 
-</td>
-</tr>
-<tr>
-<td><b>Tools</b></td>
-<td>
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,firebase,mysql,postgres&theme=dark" />
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+**Infra & Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,aws,docker,kubernetes,figma,linux&theme=dark" />
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-### Featured Projects
+## Featured Work
 
-| Project | What it does | Stack |
-|---------|-------------|-------|
-| [**CampusPal**](https://github.com/IshaanSharma10/CampusPal-web) | All-in-one campus assistance platform — real-time info, interactive dashboards | React, Chart.js, REST APIs |
-| [**Kinova Gait Analysis**](https://github.com/IshaanSharma10/Kinova) | Healthcare platform for real-time sensor data visualization & gait pattern analysis | FastAPI, OpenAI API, Live Dashboards |
-| [**ResuLift**](https://github.com/IshaanSharma10/ATSify) | AI-powered ATS optimization — analyzes resumes, matches keywords to job descriptions | Python, NLP, React |
+<table>
+<tr>
+<td width="33%" valign="top">
 
----
+**[Kinova](https://github.com/IshaanSharma10/Kinova)**
+*SIH 2025 Winning Build*
 
-### GitHub at a Glance
+AI gait-analysis platform tracking 12+ biomechanical parameters in real time, with a 3D skeletal visualizer and a voice-enabled rehab-guidance chatbot.
+
+`94.7%` classification accuracy across 500+ sessions
+`<100ms` Firebase latency · `30fps` 3D render
+
+`React` `Three.js` `FastAPI` `Firebase` `MediaPipe`
+
+</td>
+<td width="33%" valign="top">
+
+**[MindMate](https://github.com/IshaanSharma10/MindMate)**
+*AI Mental Health Companion*
+
+Conversational agent with custom prompt engineering, safety filters, and persistent memory for continuity across sessions.
+
+`200+` users · `90%` satisfaction
+`2.8x` avg. session length increase
+
+`React` `Python` `NLP` `Gemini API`
+
+</td>
+<td width="33%" valign="top">
+
+**[CampusPal](https://github.com/IshaanSharma10/CampusPal-web)**
+*Campus Engagement Platform*
+
+Full-stack platform for real-time campus info and event coordination, built on a scalable Redux architecture.
+
+`500+` students onboarded
+`60%` faster event coordination
+
+`React` `Firebase` `Redux`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Currently
+
+- 🧠 &nbsp;Grinding DSA, system design, and LLD ahead of placement season
+- 🤖 &nbsp;Researching constrained RL + CPG control for quadruped locomotion (Unitree A1)
+- 🚀 &nbsp;Shipping features for Traynar at GetHelpdesk.ai
+- 🎤 &nbsp;Organizing chapter events as ISTE Thapar Convener
+
+<br>
+
+## GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=IshaanSharma10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshaanSharma10&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" />
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IshaanSharma10&theme=tokyonight&hide_border=true&background=00000000)
-
+<img src="https://github-readme-stats.vercel.app/api?username=IshaanSharma10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=6366F1&icon_color=6366F1" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshaanSharma10&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=6366F1" height="165" />
 </div>
 
----
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IshaanSharma10&theme=tokyonight&hide_border=true&background=00000000&ring=6366F1&fire=6366F1" />
+</div>
+
+<br>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=IshaanSharma10&color=blueviolet&style=flat-square)
-
-*If you're working on something interesting, let's talk.*
+*Working on something interesting? Let's talk.*
 
 </div>
