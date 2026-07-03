@@ -25,15 +25,15 @@ I build AI-powered products and enjoy turning ambiguous, real-world problems int
 
 Outside of work, I lead the **ISTE Thapar Chapter** as Convener and research hybrid RL + CPG control architectures for quadruped locomotion as part of my capstone.
 
-```yaml
-role:        Computer Engineering Undergrad, Thapar Institute of Engineering and Technology
-graduating:  May 2027
-gpa:         9.00 / 10.00
-currently:   SDE Intern @ GetHelpdesk.ai — shipping Traynar (web + mobile)
-researching: Constrained RL + CPG frameworks for legged robot locomotion
-leading:     ISTE Thapar Chapter (Convener)
-past:        Smart India Hackathon 2025 Winner
-```
+<table>
+<tr><td width="26"><strong>🎓</strong></td><td><strong>Role</strong></td><td>Computer Engineering Undergrad, Thapar Institute of Engineering and Technology</td></tr>
+<tr><td><strong>🗓️</strong></td><td><strong>Graduating</strong></td><td>May 2027</td></tr>
+<tr><td><strong>📊</strong></td><td><strong>GPA</strong></td><td>9.00 / 10.00</td></tr>
+<tr><td><strong>💼</strong></td><td><strong>Currently</strong></td><td>SDE Intern @ GetHelpdesk.ai — shipping Traynar (web + mobile)</td></tr>
+<tr><td><strong>🔬</strong></td><td><strong>Researching</strong></td><td>Constrained RL + CPG frameworks for legged robot locomotion</td></tr>
+<tr><td><strong>🎤</strong></td><td><strong>Leading</strong></td><td>ISTE Thapar Chapter (Convener)</td></tr>
+<tr><td><strong>🏆</strong></td><td><strong>Past</strong></td><td>Smart India Hackathon 2025 Winner</td></tr>
+</table>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6&height=40&section=header" />
 
