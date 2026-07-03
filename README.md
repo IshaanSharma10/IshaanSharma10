@@ -17,7 +17,7 @@
 
 </div>
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=header" />
 
 ## About Me
 
@@ -35,7 +35,7 @@ leading:     ISTE Thapar Chapter (Convener)
 past:        Smart India Hackathon 2025 Winner
 ```
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6&height=40&section=header" />
 
 ## Tech Stack
 
@@ -66,7 +66,7 @@ past:        Smart India Hackathon 2025 Winner
 </tr>
 </table>
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6&height=40&section=header" />
 
 ## Featured Work
 
@@ -114,7 +114,7 @@ Full-stack platform for real-time campus info and event coordination, built on a
 </tr>
 </table>
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6&height=40&section=header" />
 
 ## Currently
 
@@ -123,7 +123,7 @@ Full-stack platform for real-time campus info and event coordination, built on a
 - 🚀 &nbsp;Shipping features for Traynar at GetHelpdesk.ai
 - 🎤 &nbsp;Organizing chapter events as ISTE Thapar Convener
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6&height=40&section=header" />
 
 ## GitHub Stats
 
@@ -133,7 +133,7 @@ Full-stack platform for real-time campus info and event coordination, built on a
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IshaanSharma10&theme=tokyonight&hide_border=true&background=00000000&ring=6366F1&fire=6366F1" />
+<img src="https://streak-stats.demolab.com?user=IshaanSharma10&theme=tokyonight&hide_border=true&background=00000000&ring=6366F1&fire=6366F1" />
 </div>
 
 <br>
@@ -143,3 +143,5 @@ Full-stack platform for real-time campus info and event coordination, built on a
 *Working on something interesting? Let's talk.*
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer" />
