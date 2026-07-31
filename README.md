@@ -28,7 +28,7 @@ Outside of work, I lead the **ISTE Thapar Chapter** as Convener and research hyb
 <table>
 <tr><td width="26"><strong>🎓</strong></td><td><strong>Role</strong></td><td>Computer Engineering Undergrad, Thapar Institute of Engineering and Technology</td></tr>
 <tr><td><strong>🗓️</strong></td><td><strong>Graduating</strong></td><td>May 2027</td></tr>
-<tr><td><strong>📊</strong></td><td><strong>GPA</strong></td><td>9.00 / 10.00</td></tr>
+<tr><td><strong>📊</strong></td><td><strong>GPA</strong></td><td>9.02 / 10.00</td></tr>
 <tr><td><strong>💼</strong></td><td><strong>Currently</strong></td><td>SDE Intern @ GetHelpdesk.ai — shipping Traynar (web + mobile)</td></tr>
 <tr><td><strong>🔬</strong></td><td><strong>Researching</strong></td><td>Constrained RL + CPG frameworks for legged robot locomotion</td></tr>
 <tr><td><strong>🎤</strong></td><td><strong>Leading</strong></td><td>ISTE Thapar Chapter (Convener)</td></tr>
